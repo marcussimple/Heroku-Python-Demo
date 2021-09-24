@@ -1,0 +1,1 @@
+web: gunicorn loadexcel:app --log-file -
